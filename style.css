@@ -1,0 +1,401 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+   
+}
+body{
+    background-color: black;
+}
+.title{
+    color: rgba(230, 83, 60, 1)
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0px auto;
+    padding: 20px 0px;
+    align-items: center;
+}
+.navElement{
+    color: white;
+    padding: 10px 15px;
+}
+.selected{
+    background-color: rgba(230, 83, 60, 1);
+    border-radius: 10px;
+}
+.navigation{
+    width: 40%;
+    display: flex;
+    border: 1px solid grey;
+    align-items: center;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.banner{
+    background-color: rgba(17, 17, 17, 1);
+    
+}
+.banner-2{
+    
+    margin: 40px auto;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.btn-3{
+    background-color:red;
+   border: 1px solid grey;
+   padding: 10px 10px 10px 10px;
+   border-radius: 10px;
+   color: white;
+}
+
+.on{
+    color: gray;
+    
+}
+
+.habits{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 30px auto;
+    text-align: center;
+}
+.habits img{
+    border-radius: 50%;
+    width: 100%;
+   
+    
+}
+.banner-7{
+    color: aliceblue;
+    width: 80%;
+    margin: 20px auto;
+    gap: 34px;
+    display: flex;
+    justify-content: space-between;
+    border:  solid grey;
+    border-radius: 18px;
+    background-color:rgba(34, 34, 34, 1);
+    font-weight: bold;
+    padding: 10px 40px;
+    align-items: center;
+
+
+}
+.dis{
+    font-size: 10px;
+    color: grey;
+    margin-left: 150px;
+    text-align: center;
+}
+
+.form-3{
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-right: 3px;
+    
+}
+.head{
+    color: aliceblue;
+    font-weight: bold;
+
+}
+.que{
+    display: flex;
+    background-color: #222222;
+}
+.main{
+    margin-left: 150px;
+}
+.text-5{
+    color: cadetblue;
+}
+.picture img{
+    
+    
+    margin-left: 200px;
+    
+    column-width: auto;
+    width: 280px;
+}
+.pic-1{
+   
+    display: flex;
+    width: 80%;
+    margin: 20px auto;
+}
+.pic-1 img{
+    width: 450px;
+    border: #222222 10px;
+    border-radius: 18px ;
+
+    
+}
+.footer-2{
+    background-color: #222222;
+    color: #fff;
+    text-align: center;
+    gap: 88px;
+}
+.text-4{
+    color: cadetblue;
+}
+.footer{
+    margin-left: 150px;
+    background-color: #222222;
+    
+    
+}
+.header-3{
+    color: rgba(230, 83, 60, 1);
+    font-size: 30px;
+   
+}
+.pictures{
+    width: 
+    326.67px;
+    display: inline;
+
+
+}
+.text-3{
+    color: grey;
+    font-size: 15px;
+    text-align: center;
+}
+.orno{
+    color: antiquewhite;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.btn-4{
+    padding: 20px 20px 20px 20px;
+    background-color: rgba(230, 83, 60, 1);
+    border-radius: 10px;
+    margin-left: 150px;
+}
+.form-4{
+    padding-left: 200px;
+    padding: 10px 200px 10px 10px;
+    border-radius: 10px;
+}
+.form{
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-right: 3px;
+}
+.btr{
+    border: 10px;
+    color:white;
+    gap: 3PX;
+    width: 100%;
+}
+.bmi-clt{
+    background-color: black;
+    gap: 14px;
+}
+.of{
+    color: aliceblue;
+    margin-left: 150px;
+    border: 10px;
+    background-color: darkgrey;
+}
+.ou{
+    font-weight: bold;
+    margin-left: 150px;
+    color: aliceblue;
+    text-align: center;
+}
+.TABLE{
+    color: aliceblue;
+    width: 100%;
+}
+.sec{
+    background-color:#222222 ;
+    justify-content: center;
+    
+    
+}
+.or{
+    width: 366px;
+    height: 312px;
+    border-radius: 10px ;
+    
+    
+}
+.table{
+    border-collapse: collapse;
+}
+td , TH{
+    border:1px solid white;
+    padding: 5px 10px;
+}
+.header-2{
+    color: beige;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.text-2{
+    color: gray;
+    text-align: center;
+    font-size: 10px;
+}
+.banner-3{
+    margin-left: 280px; 
+    width: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 231px;
+    height: 274px;
+    gap: 30px;
+}
+.banner-3 img{
+   border-radius: 50%; 
+   border: 1px solid #fff;
+}
+
+    
+
+.otto{
+    
+    font-size: 15px;
+    color: aliceblue;
+}
+.banner-4{
+    color: white;
+    margin-left: 100px; 
+    
+
+    
+}
+.banner-6{
+    margin-left: 570px;
+}
+.banner-5{
+    margin-left: 320px;
+    margin-right: 100px;
+}
+
+.oto{
+    font-size: 10px;
+    color: aliceblue;
+}
+.bmiCalc{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    width: 80%;
+    margin:40px auto
+}
+.image{
+    
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.second-banner{
+    color: white;
+    padding: 10px 15px;
+    font-weight: bold;
+    font-size: 30px;
+  
+    padding: 20px 0px;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin: 30px auto;
+    display: flex;
+    gap: 3px;
+}
+.text{
+    font-size: 10px;
+    color: gray;
+}
+
+.btn-1{
+   background-color:red;
+   border: 1px solid grey;
+   padding: 10px 25px 10px 25px;
+   border-radius: 10px;
+   margin-top: 20px;
+   color: white;
+}
+.btn-2{
+    border: 1px solid grey;
+    padding: 10px 25px 10px 25px;
+    border-radius: 10px;
+    margin-top: 20px;
+   color: white;
+   background-color: black;
+   
+    
+
+}
+.mobileNav{
+    display: none;
+}
+.bmi-2{
+width:100%;    
+}
+@media only screen and (max-width: 768px) {
+    .navigation{
+        display: none;
+    }
+    .pic-1 img{
+        width:350px;
+    }
+    .second-banner{
+        flex-direction: column;
+       }
+    .habits{
+        flex-direction: column;
+    }
+    .ok{
+        flex-direction: column;
+    }
+    .sec{
+        flex-direction: column;
+    }
+    .pic-1{
+        flex-direction: column;
+    }
+    .bmiCalc{
+        flex-direction: column;
+    }
+    .meet{
+        flex-direction: column;
+    }
+    .que{
+        flex-direction: column;
+    }
+    .banner-7{
+        flex-direction: column;
+    }
+    .mobileNav{
+        display: block;
+    }
+   
+    }
+    
+    
+    
+
+
